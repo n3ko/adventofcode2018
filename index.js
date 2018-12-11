@@ -1,6 +1,6 @@
 
 var lineReader = require('readline').createInterface({
-  input: require('fs').createReadStream('input/day2')
+  input: require('fs').createReadStream('input')
 });
 
 let repeat2 = 0
